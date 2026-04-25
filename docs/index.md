@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "请填写您的标题"
-  text: "就在这里替换就好啦 >_<"
-  tagline: "极简风格 · 逻辑严密 · 教程导向 · 数据驱动。<br>小咪喊你来体验模板啦 (★ ω ★)"
+  name: "两元店"
+  text: "Binary Store"
+  tagline: "个人ai学习收藏夹<br>Everything is binary. (★ ω ★)"
   # 💡 提示：图片建议放在 public 文件夹下，更名为 your-photo.png
   image:
     src: /your-photo.png

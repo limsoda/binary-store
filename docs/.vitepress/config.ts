@@ -42,9 +42,9 @@ export default withMermaid(
         }
       `]
     ],
-    base: '/vitepress-tutorial-template-cn/',
-    title: "Vitepress Tutorial Template",
-    description: "Starter template for Vitepress documentation sites, especially for tutorials and academic documentation.",
+    base: '/binary-store/',
+    title: "Binary Store",
+    description: "两元店",
     lang: 'zh-CN',
     // 3. 这里可以添加 Mermaid 的专属配置（可选）
     mermaid: {
