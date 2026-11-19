@@ -100,7 +100,7 @@ export default withMermaid(
         }
       ],
       socialLinks: [
-        { icon: 'github', link: 'https://github.com/lucas-c-lin/openclaw-learning-hub-cn' }
+        { icon: 'github', link: 'https://github.com/limsoda/openclaw-learning-hub-cn' }
         // 提示：请将上面的GitHub链接替换为您自己的GitHub仓库链接
       ]
     }
