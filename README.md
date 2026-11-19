@@ -9,7 +9,7 @@
 - 🔄 实时预览，改完立即看到效果
 - 📱 自适应手机和电脑屏幕
 
-[模板预览](https://lucas-c-lin.github.io/vitepress-tutorial-template-cn/)
+[模板预览](https://limsoda.github.io/vitepress-tutorial-template-cn/)
 
 [本教程的飞书文档版](https://my.feishu.cn/docx/W9yed2jjqoB01qxkeBmcLHqUn0e?from=from_copylink)
 
